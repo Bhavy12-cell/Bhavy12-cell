@@ -21,5 +21,3 @@ www.linkedin.com/in/bhavya-gupta-901b28333
 
 ---
 
-## 📊 GitHub Stats:
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavy12-cell&show_icons=true&theme=radical)
