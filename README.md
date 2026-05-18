@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bhavya
 
-<!--
-**Bhavy12-cell/Bhavy12-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about Open Source
 
-Here are some ideas to get you started:
+💻 I love building things and contributing to the community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Currently contributing to **GSSoC 2026**
+
+---
+
+## 🛠️ Tech Stack:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 🔗 Socials:
+www.linkedin.com/in/bhavya-gupta-901b28333
+
+---
+
+## 📊 GitHub Stats:
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavy12-cell&show_icons=true&theme=radical)
